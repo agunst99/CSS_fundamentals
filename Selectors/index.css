@@ -2,7 +2,13 @@ body {
   background-color: coral;
 }
 
-#one {
+p:hover {
+  border: 2px solid black;
+  border-radius: 5px;
+}
+}
+
+/* #one {
   background-color: blue;
   border: 2px solid black;
 }
@@ -29,4 +35,4 @@ background-color: black;
 
 .border-round {
   border-radius: 25px 15px black;
-}
+} */
