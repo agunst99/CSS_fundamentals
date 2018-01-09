@@ -1,0 +1,32 @@
+body {
+  background-color: coral;
+}
+
+#one {
+  background-color: blue;
+  border: 2px solid black;
+}
+
+#two {
+  background-color: red;
+}
+
+#three {
+  color: purple;
+}
+
+#four {
+  color: turquoise;
+}
+
+.bordered {
+  border: 2px solid fuchsia;
+}
+
+.background-black {
+background-color: black;
+}
+
+.border-round {
+  border-radius: 25px 15px black;
+}
